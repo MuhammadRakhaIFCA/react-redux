@@ -1,0 +1,808 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "itemName": "kaos hitam",
+      "price": 100000,
+      "stock": 8,
+      "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+    },
+    {
+      "id": "3",
+      "itemName": "hoodie merah",
+      "price": 300000,
+      "stock": 8,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0554/3447/4767/products/redhoodie.jpg?v=1648722036"
+    },
+    {
+      "id": "4",
+      "itemName": "jaket denim",
+      "price": 500000,
+      "stock": 18,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0891/7072/products/denimjacket.jpg?v=1565611334"
+    },
+    {
+      "id": "5",
+      "itemName": "sepatu sneakers",
+      "price": 350000,
+      "stock": 12,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0051/7477/5559/products/sneakers.jpg?v=1602024383"
+    },
+    {
+      "id": "7",
+      "itemName": "topi hitam",
+      "price": 150000,
+      "stock": 4,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+    },
+    {
+      "id": "8",
+      "itemName": "sweater abu-abu",
+      "price": 270000,
+      "stock": 2,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+    },
+    {
+      "id": "10",
+      "itemName": "kaos polo biru",
+      "price": 220000,
+      "stock": 18,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0498/3417/7029/products/bluepolo.jpg?v=1629985112"
+    },
+    {
+      "id": "711e",
+      "itemName": "kaos merah",
+      "price": 230000,
+      "stock": 3,
+      "imgUrl": "https://google.com"
+    },
+    {
+      "id": "11",
+      "itemName": "kaos hitam",
+      "price": 100000,
+      "stock": 3,
+      "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+    },
+    {
+      "id": "13",
+      "itemName": "hoodie merah",
+      "price": 300000,
+      "stock": 10,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0554/3447/4767/products/redhoodie.jpg?v=1648722036"
+    },
+    {
+      "id": "14",
+      "itemName": "jaket denim",
+      "price": 500000,
+      "stock": 7,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0891/7072/products/denimjacket.jpg?v=1565611334"
+    },
+    {
+      "id": "15",
+      "itemName": "sepatu sneakers",
+      "price": 350000,
+      "stock": 15,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0051/7477/5559/products/sneakers.jpg?v=1602024383"
+    },
+    {
+      "id": "18",
+      "itemName": "sweater abu-abu",
+      "price": 270000,
+      "stock": 8,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+    },
+    {
+      "id": "20",
+      "itemName": "kaos polo biru",
+      "price": 220000,
+      "stock": 18,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0498/3417/7029/products/bluepolo.jpg?v=1629985112"
+    },
+    {
+      "id": "711e",
+      "itemName": "kaos merah",
+      "price": 230000,
+      "stock": 3,
+      "imgUrl": "https://google.com"
+    },
+    {
+      "id": "bb55",
+      "itemName": "kaos merah 2",
+      "price": 1111110,
+      "stock": 30,
+      "imgUrl": "https://google.com"
+    },
+    {
+      "id": "458b",
+      "itemName": "kaos biru 1",
+      "price": 111111111111110,
+      "stock": 19,
+      "imgUrl": "https://google.com"
+    },
+    {
+      "id": "3f71",
+      "itemName": "kaos merah baru",
+      "price": 12220,
+      "stock": 15,
+      "imgUrl": "https://google.com"
+    }
+  ],
+  "users": [
+    {
+      "id": "00ad",
+      "username": "user1",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "0c67",
+      "username": "user2",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "7235",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "28ce",
+      "username": "user2",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "9ae6",
+      "username": "user2",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "f9af",
+      "username": "user2",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "af45",
+      "username": "user2",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "a8bc",
+      "username": "user2",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "072d",
+      "username": "user2",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "8f2a",
+      "username": "admin",
+      "password": "admin123",
+      "role": "user"
+    },
+    {
+      "id": "127d",
+      "username": "admin",
+      "password": "admin123",
+      "role": "user"
+    },
+    {
+      "id": "2600",
+      "username": "admin",
+      "password": "admin123",
+      "role": "user"
+    },
+    {
+      "id": "f3b8",
+      "username": "admin",
+      "password": "admin123",
+      "role": "user"
+    }
+  ],
+  "carts": [
+    {
+      "id": "4ae6",
+      "userId": "00ad",
+      "productId": "3",
+      "quantity": 2
+    },
+    {
+      "id": "e5fc",
+      "userId": "00ad",
+      "productId": "1",
+      "quantity": 2
+    }
+  ],
+  "transactions": [
+    {
+      "id": "890e",
+      "userId": "00ad",
+      "totalPrice": 200000,
+      "tax": 20000,
+      "transactionDate": "2024-10-11T06:35:52.762Z",
+      "items": [
+        [
+          {
+            "id": "7437",
+            "userId": "00ad",
+            "productId": "1",
+            "quantity": 1,
+            "product": {
+              "id": "1",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 5,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          },
+          {
+            "id": "d1a9",
+            "userId": "00ad",
+            "productId": "11",
+            "quantity": 1,
+            "product": {
+              "id": "11",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 5,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "43dc",
+      "userId": "00ad",
+      "totalPrice": 200000,
+      "tax": 20000,
+      "transactionDate": "2024-10-11T06:42:44.922Z",
+      "items": [
+        [
+          {
+            "id": "7437",
+            "userId": "00ad",
+            "productId": "1",
+            "quantity": 1,
+            "product": {
+              "id": "1",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 5,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          },
+          {
+            "id": "d1a9",
+            "userId": "00ad",
+            "productId": "11",
+            "quantity": 1,
+            "product": {
+              "id": "11",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 5,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "af5c",
+      "userId": "00ad",
+      "totalPrice": 200000,
+      "tax": 20000,
+      "transactionDate": "2024-10-11T06:43:23.481Z",
+      "items": [
+        [
+          {
+            "id": "7437",
+            "userId": "00ad",
+            "productId": "1",
+            "quantity": 1,
+            "product": {
+              "id": "1",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 5,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          },
+          {
+            "id": "d1a9",
+            "userId": "00ad",
+            "productId": "11",
+            "quantity": 1,
+            "product": {
+              "id": "11",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 5,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "3b66",
+      "userId": "00ad",
+      "totalPrice": 200000,
+      "tax": 20000,
+      "transactionDate": "2024-10-11T06:47:56.063Z",
+      "items": [
+        [
+          {
+            "id": "7437",
+            "userId": "00ad",
+            "productId": "1",
+            "quantity": 1,
+            "product": {
+              "id": "1",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 4,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          },
+          {
+            "id": "d1a9",
+            "userId": "00ad",
+            "productId": "11",
+            "quantity": 1,
+            "product": {
+              "id": "11",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 4,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "9ecb",
+      "userId": "00ad",
+      "totalPrice": 720000,
+      "tax": 72000,
+      "transactionDate": "2024-10-11T07:44:50.690Z",
+      "items": [
+        [
+          {
+            "id": "aa85",
+            "userId": "00ad",
+            "productId": "1",
+            "quantity": 3,
+            "product": {
+              "id": "1",
+              "itemName": "kaos hitam",
+              "price": 100000,
+              "stock": 3,
+              "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+            }
+          },
+          {
+            "id": "dda6",
+            "userId": "00ad",
+            "productId": "7",
+            "quantity": 1,
+            "product": {
+              "id": "7",
+              "itemName": "topi hitam",
+              "price": 150000,
+              "stock": 12,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+            }
+          },
+          {
+            "id": "d618",
+            "userId": "00ad",
+            "productId": "8",
+            "quantity": 1,
+            "product": {
+              "id": "8",
+              "itemName": "sweater abu-abu",
+              "price": 270000,
+              "stock": 8,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "4c8f",
+      "userId": "00ad",
+      "totalPrice": 420000,
+      "tax": 42000,
+      "transactionDate": "2024-10-11T07:45:05.272Z",
+      "items": [
+        [
+          {
+            "id": "dda6",
+            "userId": "00ad",
+            "productId": "7",
+            "quantity": 1,
+            "product": {
+              "id": "7",
+              "itemName": "topi hitam",
+              "price": 150000,
+              "stock": 11,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+            }
+          },
+          {
+            "id": "d618",
+            "userId": "00ad",
+            "productId": "8",
+            "quantity": 1,
+            "product": {
+              "id": "8",
+              "itemName": "sweater abu-abu",
+              "price": 270000,
+              "stock": 7,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "9d62",
+      "userId": "00ad",
+      "totalPrice": 420000,
+      "tax": 42000,
+      "transactionDate": "2024-10-11T07:45:22.496Z",
+      "items": [
+        [
+          {
+            "id": "dda6",
+            "userId": "00ad",
+            "productId": "7",
+            "quantity": 1,
+            "product": {
+              "id": "7",
+              "itemName": "topi hitam",
+              "price": 150000,
+              "stock": 11,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+            }
+          },
+          {
+            "id": "d618",
+            "userId": "00ad",
+            "productId": "8",
+            "quantity": 1,
+            "product": {
+              "id": "8",
+              "itemName": "sweater abu-abu",
+              "price": 270000,
+              "stock": 7,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "8b6f",
+      "userId": "00ad",
+      "totalPrice": 420000,
+      "tax": 42000,
+      "transactionDate": "2024-10-11T07:55:08.812Z",
+      "items": [
+        [
+          {
+            "id": "dda6",
+            "userId": "00ad",
+            "productId": "7",
+            "quantity": 1,
+            "product": {
+              "id": "7",
+              "itemName": "topi hitam",
+              "price": 150000,
+              "stock": 10,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+            }
+          },
+          {
+            "id": "d618",
+            "userId": "00ad",
+            "productId": "8",
+            "quantity": 1,
+            "product": {
+              "id": "8",
+              "itemName": "sweater abu-abu",
+              "price": 270000,
+              "stock": 6,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "e634",
+      "userId": "00ad",
+      "totalPrice": 690000,
+      "tax": 69000,
+      "transactionDate": "2024-10-11T07:57:21.336Z",
+      "items": [
+        [
+          {
+            "id": "dda6",
+            "userId": "00ad",
+            "productId": "7",
+            "quantity": 1,
+            "product": {
+              "id": "7",
+              "itemName": "topi hitam",
+              "price": 150000,
+              "stock": 10,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+            }
+          },
+          {
+            "id": "d618",
+            "userId": "00ad",
+            "productId": "8",
+            "quantity": 2,
+            "product": {
+              "id": "8",
+              "itemName": "sweater abu-abu",
+              "price": 270000,
+              "stock": 6,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "324d",
+      "userId": "00ad",
+      "totalPrice": 0,
+      "tax": 0,
+      "transactionDate": "2024-10-11T08:29:57.636Z",
+      "items": [
+        []
+      ]
+    },
+    {
+      "id": "e02f",
+      "userId": "00ad",
+      "totalPrice": 1000000,
+      "tax": 100000,
+      "transactionDate": "2024-10-11T08:30:16.842Z",
+      "items": [
+        [
+          {
+            "id": "4675",
+            "userId": "00ad",
+            "productId": "4",
+            "quantity": 2,
+            "product": {
+              "id": "4",
+              "itemName": "jaket denim",
+              "price": 500000,
+              "stock": 7,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0891/7072/products/denimjacket.jpg?v=1565611334"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "ce24",
+      "userId": "00ad",
+      "totalPrice": 450000,
+      "tax": 45000,
+      "transactionDate": "2024-10-11T08:39:23.140Z",
+      "items": [
+        [
+          {
+            "id": "dc91",
+            "userId": "00ad",
+            "productId": "7",
+            "quantity": 3,
+            "product": {
+              "id": "7",
+              "itemName": "topi hitam",
+              "price": 150000,
+              "stock": 9,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "38b3",
+      "userId": "00ad",
+      "totalPrice": 1040000,
+      "tax": 104000,
+      "transactionDate": "2024-10-15T05:09:37.771Z",
+      "items": [
+        [
+          {
+            "id": "bba7",
+            "userId": "00ad",
+            "productId": "8",
+            "quantity": 2,
+            "product": {
+              "id": "8",
+              "itemName": "sweater abu-abu",
+              "price": 270000,
+              "stock": 4,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0248/2518/8967/products/sweater.jpg?v=1633649178"
+            }
+          },
+          {
+            "id": "136a",
+            "userId": "00ad",
+            "productId": "4",
+            "quantity": 1,
+            "product": {
+              "id": "4",
+              "itemName": "jaket denim",
+              "price": 500000,
+              "stock": 5,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0891/7072/products/denimjacket.jpg?v=1565611334"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "5baf",
+      "userId": "00ad",
+      "totalPrice": 4050000,
+      "tax": 405000,
+      "transactionDate": "2024-10-16T08:07:49.215Z",
+      "items": [
+        [
+          {
+            "id": "e95d",
+            "userId": "00ad",
+            "productId": "3",
+            "quantity": 4,
+            "product": {
+              "id": "3",
+              "itemName": "hoodie merah",
+              "price": 300000,
+              "stock": 10,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0554/3447/4767/products/redhoodie.jpg?v=1648722036"
+            }
+          },
+          {
+            "id": "f39f",
+            "userId": "00ad",
+            "productId": "7",
+            "quantity": 2,
+            "product": {
+              "id": "7",
+              "itemName": "topi hitam",
+              "price": 150000,
+              "stock": 6,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/2331/1467/products/blackcap.jpg?v=1571453281"
+            }
+          },
+          {
+            "id": "8b41",
+            "userId": "00ad",
+            "productId": "4",
+            "quantity": 3,
+            "product": {
+              "id": "4",
+              "itemName": "jaket denim",
+              "price": 500000,
+              "stock": 4,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0891/7072/products/denimjacket.jpg?v=1565611334"
+            }
+          },
+          {
+            "id": "5609",
+            "userId": "00ad",
+            "productId": "5",
+            "quantity": 3,
+            "product": {
+              "id": "5",
+              "itemName": "sepatu sneakers",
+              "price": 350000,
+              "stock": 15,
+              "imgUrl": "https://cdn.shopify.com/s/files/1/0051/7477/5559/products/sneakers.jpg?v=1602024383"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": "7885",
+      "userId": 1,
+      "totalPrice": 50000000,
+      "tax": 5000000,
+      "transactionDate": "2024-10-16T09:48:39.306Z",
+      "items": [
+        {
+          "id": 1,
+          "userid": 1,
+          "productid": 1,
+          "quantity": 10,
+          "itemname": "kaos hitam",
+          "price": 1000000,
+          "stock": 10,
+          "imgurl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+        },
+        {
+          "id": 2,
+          "userid": 1,
+          "productid": 2,
+          "quantity": 10,
+          "itemname": "kaos merah",
+          "price": 2000000,
+          "stock": 20,
+          "imgurl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+        },
+        {
+          "id": 2,
+          "userid": 1,
+          "productid": 2,
+          "quantity": 10,
+          "itemname": "kaos merah",
+          "price": 2000000,
+          "stock": 20,
+          "imgurl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+        }
+      ]
+    },
+    {
+      "id": "caca",
+      "userId": 1,
+      "totalPrice": 50000000,
+      "tax": 5000000,
+      "transactionDate": "2024-10-16T09:48:40.274Z",
+      "items": [
+        {
+          "id": 1,
+          "userid": 1,
+          "productid": 1,
+          "quantity": 10,
+          "itemname": "kaos hitam",
+          "price": 1000000,
+          "stock": 10,
+          "imgurl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+        },
+        {
+          "id": 2,
+          "userid": 1,
+          "productid": 2,
+          "quantity": 10,
+          "itemname": "kaos merah",
+          "price": 2000000,
+          "stock": 20,
+          "imgurl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+        },
+        {
+          "id": 2,
+          "userid": 1,
+          "productid": 2,
+          "quantity": 10,
+          "itemname": "kaos merah",
+          "price": 2000000,
+          "stock": 20,
+          "imgurl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+        }
+      ]
+    }
+  ]
+}

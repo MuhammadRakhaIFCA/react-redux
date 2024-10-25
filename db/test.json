@@ -1,0 +1,66 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "itemName": "kaos hitam",
+            "price": 100000,
+            "stock": 10,
+            "imgUrl": "https://www.google.com/"
+        }
+    ],
+    "users": [
+        {
+            "id": "00ad",
+            "username": "user1",
+            "password": "12345678",
+            "role": "user"
+        }
+    ],
+    "carts": [
+        {
+            "id": "e95d",
+            "userId": "00ad",
+            "productId": "3",
+            "quantity": 2
+        }
+    ],
+    "transactions": [
+        {
+            "id": "890e",
+            "userId": "00ad",
+            "totalPrice": 200000,
+            "tax": 20000,
+            "transactionDate": "2024-10-11T06:35:52.762Z",
+            "items": [
+                [
+                    {
+                        "id": "7437",
+                        "userId": "00ad",
+                        "productId": "1",
+                        "quantity": 1,
+                        "product": {
+                            "id": "1",
+                            "itemName": "kaos hitam",
+                            "price": 100000,
+                            "stock": 5,
+                            "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+                        }
+                    },
+                    {
+                        "id": "d1a9",
+                        "userId": "00ad",
+                        "productId": "11",
+                        "quantity": 1,
+                        "product": {
+                            "id": "11",
+                            "itemName": "kaos hitam",
+                            "price": 100000,
+                            "stock": 5,
+                            "imgUrl": "https://www.groupe.nyc/cdn/shop/products/56199ae544f793b2a10f48812cba1dc0_958x1198.png?v=1622044961"
+                        }
+                    }
+                ]
+            ]
+        }
+    ]
+}
